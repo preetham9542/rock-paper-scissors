@@ -10,7 +10,7 @@ A simple web-based Rock, Paper, Scissors game to test your luck and strategy aga
 - [Game Logic](#game-logic)
 - [Contributing](#contributing)
 - [Installation](#Installation)
--  
+  
 ## Demo
 
 https://rock-paper-scissors-kappa-six.vercel.app/
